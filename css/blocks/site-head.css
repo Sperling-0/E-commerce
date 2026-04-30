@@ -1,0 +1,4 @@
+.site-head{
+	background-color: var( --color-white );
+	padding-block: var(--gutter);
+}

@@ -36,4 +36,9 @@
 
 	/* Custom pairs */
 	--space-s-l: clamp(1rem, 0.4886rem + 2.2727vw, 2.25rem);
+
+	--gutter: var(--space-xs);
+
+	/* Colors */
+	--color-white: #fff;
 }

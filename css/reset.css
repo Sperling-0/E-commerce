@@ -24,6 +24,14 @@ ol[role='list'] {
 	list-style: none;
 }
 
+/* Remove list styles on ul, ol elements with a class, which suggests default styling will be removed */
+ul[class],
+ol[class] {
+	list-style: none;
+	margin-inline: 0;
+	padding: 0;
+}
+
 /* Set core body defaults */
 body {
 	min-height: 100vh;

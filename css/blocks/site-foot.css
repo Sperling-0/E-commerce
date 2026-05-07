@@ -1,0 +1,5 @@
+.site-foot{
+	--cluster-horizontal-alignment: center;
+	background-color: var( --color-white );
+	padding-block: var(--gutter);
+}

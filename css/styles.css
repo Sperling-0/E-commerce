@@ -7,4 +7,6 @@
 @import "composition/cluster.css";
 
 @import "blocks/site-head.css";
+@import "blocks/site-foot.css";
+@import "blocks/hero.css";
 

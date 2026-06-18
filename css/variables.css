@@ -43,5 +43,7 @@
 	--color-white: #fff;
 	--color-pink-100: #ffb2b2;
 	--color-pink-200: #d99797;
+	--color-blue-400: #4f97b3;
+	--color-primary: var( --color-blue-400 );
 
 }

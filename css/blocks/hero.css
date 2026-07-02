@@ -1,6 +1,6 @@
 .hero{
 	background-color: var( --color-pink-200 );
-	padding-block: var( --gutter );
+	padding-block: var( --space-xl );
 }
 
 .hero__image{

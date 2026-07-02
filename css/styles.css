@@ -7,9 +7,12 @@
 @import "composition/cluster.css";
 @import "composition/sidebar.css";
 @import "composition/flow.css";
+@import "composition/grid.css";
 
 @import "blocks/site-head.css";
 @import "blocks/site-foot.css";
 @import "blocks/hero.css";
 @import "blocks/button.css";
+@import "blocks/card.css";
+@import "blocks/main-content.css";
 

@@ -1,0 +1,10 @@
+.content-section{
+	--background-color: transparent;
+
+	padding-block: var( --space-s-xl );
+	background-color: var( --background-color );
+}
+
+.content-section[data-theme="dark"]{
+	--background-color: var( --color-pink-200 );
+}

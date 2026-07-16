@@ -1,8 +1,3 @@
-.hero{
-	background-color: var( --color-pink-200 );
-	padding-block: var( --space-xl );
-}
-
 .hero__image{
 	background-color: aqua;
 	min-height: 10lh;

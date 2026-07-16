@@ -14,5 +14,6 @@
 @import "blocks/hero.css";
 @import "blocks/button.css";
 @import "blocks/card.css";
-@import "blocks/main-content.css";
+
+@import "blocks/content-section.css";
 
